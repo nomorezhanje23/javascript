@@ -89,3 +89,5 @@ function renderPlacesLived(placesLived) {
   }
   
   renderPlacesLived(profile.placesLived);
+
+
